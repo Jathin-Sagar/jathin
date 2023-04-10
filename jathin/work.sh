@@ -11,5 +11,5 @@ mul=$(echo "scale=2; $num3 * $sum" | bc)
 printf "%.2f\n" $mul
 
 
-
+#we have done 2 operations
 #scale is not mandatory here

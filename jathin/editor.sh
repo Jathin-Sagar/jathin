@@ -73,9 +73,11 @@ n: repeat search in same direction
 N: repeat search in opposite direction
 :%s/old/new/g: replace all occurrences of "old" with "new" in entire file
 These are just a few of the many Vi editor shortcuts. There are many more that can be found in Vi editor documentation or tutorials.
+<<to go to a particular line
+This will move the cursor to line 50 in the file.
 
-
-
+If you want to go to the beginning of the file, you can type :1. If you want to go to the end of the file, you can type :$.
+go to a particular line
 
 
 
