@@ -10,3 +10,6 @@ read num3
 mul=$(echo "scale=2; $num3 * $sum" | bc)
 printf "%.2f\n" $mul
 
+
+
+#scale is not mandatory here
