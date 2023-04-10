@@ -51,9 +51,9 @@ else
   echo "a is less than b and less than 10"
 fi
 
-#&&: Logical AND
-#||: Logical OR
-#!: Logical NOT
-
-######
+<<'comments'
+&&: Logical AND
+||: Logical OR
+!: Logical NOT
+comments
 	
