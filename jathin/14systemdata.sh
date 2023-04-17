@@ -18,5 +18,5 @@ echo $memory
 
 
 #codename
-codenames=$(lsb_release -a ) 
+codenames=$(lsb_release -c) 
 echo "$codenames"
